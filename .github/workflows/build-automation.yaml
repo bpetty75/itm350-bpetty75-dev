@@ -6,7 +6,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: {username}/itm350-{username}-bb
+  REPO_NAME: bpetty5/itm350-bpetty5-bb
 
 jobs:
   if_merged:
